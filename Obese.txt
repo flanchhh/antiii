@@ -1,7 +1,7 @@
 -- This file was protected using Luraph Obfuscator v14.3 [https://lura.ph/]
 
 
-_G.is_from_loader = {Mode = "fastload"}
+is_from_loader = { Mode = "fastload" }
 
 
 
