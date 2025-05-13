@@ -1,7 +1,11 @@
 -- This file was protected using Luraph Obfuscator v14.3 [https://lura.ph/]
 
 
-is_from_loader = { Mode = "fastload" }
+print("1 check ")
+local is_from_loader = { Mode = "fastload" }
+print("passed")
+print("waiting good luck")
+wait(0.3)
 
 
 
